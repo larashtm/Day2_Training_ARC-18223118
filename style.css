@@ -39,18 +39,6 @@ header {
     border-radius: 8px;
 }
 
-/* Gambar untuk setiap produk */
-.product-card:nth-child(1) img { content: url('assets/1.jpg'); }
-.product-card:nth-child(2) img { content: url('assets/2.webp'); }
-.product-card:nth-child(3) img { content: url('assets/3.jpg'); }
-.product-card:nth-child(4) img { content: url('assets/4.jpg'); }
-.product-card:nth-child(5) img { content: url('assets/5.jpg'); }
-.product-card:nth-child(6) img { content: url('assets/6s.webp'); }
-.product-card:nth-child(7) img { content: url('assets/7.jpg'); }
-.product-card:nth-child(8) img { content: url('assets/8.jpg'); }
-.product-card:nth-child(9) img { content: url('assets/9.jpg'); }
-.product-card:nth-child(10) img { content: url('assets/10.jpg'); }
-
 .product-card h2 {
     font-size: 1.2rem;
     margin: 10px 0;
